@@ -14,7 +14,7 @@
 ## Project 3 : **Student management using WPF**
 
 <a href="https://github.com/saadrds/StudentManagerWPF" target="_blank">Project link</a>
-
+[link](https://github.com/saadrds/StudentManagerWPF){:target="_blank"}
 ## Project 4 : **Student absence mobile application using Xamarin**
 
 <a href="https://google.com/" target="_blank">Project link</a>
