@@ -5,11 +5,11 @@
 
 ## Project 1 : **Student management using windowsForms and SQL server**
 
-<a href="https://univcadiayyad.sharepoint.com/sites/ENSASEspacedepersonnels" target="_blank">Project link</a>
+<a href="https://github.com/TazribineHassan/GestionDesEtudiants" target="_blank">Project link</a>
 
 ## Project 2 : **Website on SharePoint for holiday requests**
 
-<a href="https://google.com/" target="_blank">Project link</a>
+<a href="https://univcadiayyad.sharepoint.com/sites/ENSASEspacedepersonnels" target="_blank">Project link</a>
 
 ## Project 3 : **Student management using WPF**
 
