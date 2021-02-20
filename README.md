@@ -21,4 +21,4 @@
 
 ## Project 5 (optional) : **A UWP application (ToDo App)**
 
-<a href="https://google.com/" target="_blank">Project link</a>
+<a href="https://github.com/17Pixelz/ToDo-UWP" target="_blank">Project link</a>
