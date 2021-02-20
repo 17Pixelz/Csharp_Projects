@@ -13,11 +13,11 @@
 
 ## Project 3 : **Student management using WPF**
 
-[Project link](https://www.google.com)
+[Project link](https://github.com/saadrds/StudentManagerWPF)
 
 ## Project 4 : **Student absence mobile application using Xamarin**
 
-[Project link](https://github.com/saadrds/StudentManagerWPF)
+[Project link](google.com)
 
 ## Project 5 (optional) : **A UWP application (ToDo App)**
 
