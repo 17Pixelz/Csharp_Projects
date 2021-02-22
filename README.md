@@ -17,7 +17,7 @@
 
 ## Project 4 : **Student absence mobile application using Xamarin**
 
-<a href="https://google.com/" target="_blank">Project link</a>
+<a href="https://github.com/zirax007/XamarinProjetct" target="_blank">Project link</a>
 
 ## Project 5 (optional) : **A UWP application (ToDo App)**
 
