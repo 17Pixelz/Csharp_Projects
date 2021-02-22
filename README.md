@@ -5,7 +5,7 @@
 
 ## Project 1 : **Student management using windowsForms and SQL server**
 
-<a href="https://github.com/TazribineHassan/GestionDesEtudiants" target="_blank">Project link</a>
+<a href="https://github.com/TazribineHassan/GestionDesEtudiants" target="_blank">*Project link*</a>
 
 ## Project 2 : **Website on SharePoint for holiday requests**
 
